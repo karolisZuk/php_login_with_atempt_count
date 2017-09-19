@@ -1,0 +1,33 @@
+.container{
+  margin-top: 30px;
+  max-width: 50%;
+}
+div {
+  border:solid 1px black;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+form {
+  max-width: 30%;
+}
+
+.btn{
+  width: 50%;
+  margin-top: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+label > a{
+  text-transform: uppercase;
+  margin: 10px;
+}
